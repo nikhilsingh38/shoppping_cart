@@ -39,7 +39,7 @@ function Navbar2({cart=[]}) {
             
             <Typography variant="h6" className={classes.title}>
               <Link to='/' style={{color:'#2f3542'}}>
-              Redux Shopping
+              Shipkart Shopping
               </Link>
             </Typography>
             <Link to='/cart' style={{color:'#2f3542'}}>
